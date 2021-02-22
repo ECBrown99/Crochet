@@ -24,8 +24,9 @@ p {
 	padding-right: 5px;
 }
 .navbar {
-	padding-right: 10%;
-	padding-left: 10%;
+margin-left: 35%;
+margin-right: 25%;
+
 }
 .grid-container { 
   display: grid;
