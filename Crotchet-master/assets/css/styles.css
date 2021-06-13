@@ -9,7 +9,8 @@ body {
 .navbar a {
 	text-align:center;
 	background-color: #cd92d3;
-	padding: 5px;
+	padding: auto;
+	margin: auto;
 	text-decoration: none;
 	border-style: solid;
 	border-color: #FEC8D8;
@@ -17,7 +18,9 @@ body {
 	display:inline-block;
 }
 .navbar {
-	float: center;
+	display: inline-block;
+	position: fixed;
+	top: 0;
 }
 li {
 	list-style-type: none;
@@ -31,8 +34,7 @@ li {
 
 }
 p {
-	padding-left: 5px;
-	padding-right: 5px;
+
 }
 
 
